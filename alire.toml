@@ -1,0 +1,10 @@
+name = "skye_flight_bsp"
+description = "Board support package for the Skye Flight"
+version = "0.1.0-dev"
+
+authors = ["Nathan Rignall"]
+maintainers = ["Nathan Rignall <rignallnathan@gmail.com>"]
+maintainers-logins = ["NathanRignall"]
+
+[[depends-on]]
+rp2040_hal = "^2.0.0"
